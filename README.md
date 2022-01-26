@@ -1,5 +1,5 @@
 # Quantcast
 Coding assessment for Quantcast
 
-run python most_active_cookie.py to run the script
+Run python most_active_cookie.py to run the script\n
 run test.py to test cookie script
